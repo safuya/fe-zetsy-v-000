@@ -55,4 +55,5 @@ a img:hover {
 
 footer {
   display: flex;
+  justify-content: flex-end;
 }
