@@ -52,3 +52,7 @@ a img:hover {
   border-color: rgb(90, 90, 90);
   cursor: pointer;
 }
+
+.footer {
+  text-align: right;
+}
