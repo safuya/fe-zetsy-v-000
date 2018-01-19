@@ -53,6 +53,6 @@ a img:hover {
   cursor: pointer;
 }
 
-.footer {
-  direction: rtl;
+footer {
+  display: flex;
 }
