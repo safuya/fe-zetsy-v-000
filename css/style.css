@@ -38,3 +38,7 @@ header {
   border-bottom: thin solid rgb(133, 133, 133);
   margin-bottom: 3px;
 }
+
+a {
+  text-decoration: none;
+}
