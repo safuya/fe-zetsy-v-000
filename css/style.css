@@ -44,11 +44,11 @@ a {
 }
 
 a img {
-  border: thick solid rgb(170, 170, 170);
+  border: thick solid rgb(200, 200, 200);
   transition: border-color 2s ease-out;
 }
 
 a img:hover {
-  border-color: rgb(133, 133, 133);
+  border-color: rgb(90, 90, 90);
   cursor: pointer;
 }
