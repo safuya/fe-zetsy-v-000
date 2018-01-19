@@ -26,3 +26,7 @@ h1 {
   font-weight: lighter;
   line-height: 1.2em;
 }
+
+header {
+  border-bottom: thin solid;
+}
