@@ -42,3 +42,7 @@ header {
 a {
   text-decoration: none;
 }
+
+a img {
+  border: thick solid rgb(133, 133, 133);
+}
